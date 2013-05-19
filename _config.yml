@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://vimtips.github.io
+title: Vim贴士的Blog
+subtitle: 让【繁重枯燥】的文本处理变得【高效有趣】—— vim是个强大文本编辑器!
+author: vim贴士
 simple_search: http://google.com/search
-description:
+description: 分享所有关于vim的信息
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
